@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm mohigan77
 
-<!--
-**mohigan77/mohigan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Researcher** at The Catholic University of Korea  
+🧠 **AI in Medicine & Pathology** | 🧬 **Spatial Transcriptomics** | 🔍 **MIL, Self-Supervised Learning**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m passionate about applying deep learning to biomedical problems.  
+Currently working on:
+
+- 🔬 **Whole Slide Image Analysis** using MIL (Multiple Instance Learning)
+- 🧠 **Spatial Transcriptomics** with foundation models (e.g., scGPT, Tangram)
+- 🧪 Deep Learning for CT ↔ MRI translation using CycleGAN
+- 🧹 Docker, PyTorch, TensorFlow workflows with pathology pipelines
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Python, R, Shell, Markdown  
+- **DL Frameworks:** PyTorch, TensorFlow, MONAI  
+- **Tools:** Git, Docker, OpenSlide, Anaconda, Jupyter  
+- **Research Tools:** Scanpy, Seurat, GSEA, CellPhoneDB, Enrichr  
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🧠 `PathoGATE` | Interpretable WSI classifier using Graph Attention & Topology |
+| 🧬 `scGPT-spatial` replication | Spatial transcriptomics with foundation models |
+
+---
+
+## 📫 Contact
+
+- 📧 Email: mohigan77@gmail.com  
+- 🔗 GitHub: [github.com/mohigan77](https://github.com/mohigan77)  
+
+---
+
+
