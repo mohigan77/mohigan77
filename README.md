@@ -24,14 +24,7 @@ Currently working on:
 - **Tools:** Git, Docker, OpenSlide, Anaconda, Jupyter  
 - **Research Tools:** Scanpy, Seurat, GSEA, CellPhoneDB, Enrichr  
 
----
 
-## 📂 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🧠 `PathoGATE` | Interpretable WSI classifier using Graph Attention & Topology |
-| 🧬 `scGPT-spatial` replication | Spatial transcriptomics with foundation models |
 
 ---
 
