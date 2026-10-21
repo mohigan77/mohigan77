@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm mohigan77
 
-🎓 **Undergraduate Researcher** at The Catholic University of Korea  
 🧠 **AI in Medicine & Pathology** | 🧬 **Spatial Transcriptomics** | 🔍 **MIL, Self-Supervised Learning**
 
 ---
