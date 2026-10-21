@@ -1,37 +1,32 @@
-# 👋 Hi there, I'm mohigan77
+# 박우현 · mohigan77
 
-🧠 **AI in Medicine & Pathology** | 🧬 **Spatial Transcriptomics** | 🔍 **MIL, Self-Supervised Learning**
+**Computational Pathology · Spatial Transcriptomics · AI for Biomedical Research**
 
----
+I work on applying machine learning to digital pathology and spatial omics, and on building practical tools for reproducible biomedical research.
 
-## 🚀 About Me
+## Research interests
 
-I’m passionate about applying deep learning to biomedical problems.  
-Currently working on:
+- **Computational pathology:** whole slide image analysis, pathology foundation models, and multiple instance learning for patient-level prediction.
+- **Spatial transcriptomics:** studying the tumor microenvironment and connecting tissue morphology with spatial gene expression.
+- **Biomedical data integration:** organizing imaging, molecular, and clinical metadata with clear provenance and consistent definitions.
 
-- 🔬 **Whole Slide Image Analysis** using MIL (Multiple Instance Learning)
-- 🧠 **Spatial Transcriptomics** with foundation models (e.g., scGPT, Tangram)
-- 🧪 Deep Learning for CT ↔ MRI translation using CycleGAN
-- 🧹 Docker, PyTorch, TensorFlow workflows with pathology pipelines
+## What I build
 
----
+- Reproducible workflows for pathology image analysis and model evaluation.
+- Tools that support pathology report drafting and research data processing.
+- AI-assisted workflows for literature review, evidence tracking, and research continuity.
 
-## 🧰 Tech Stack
+## Toolbox
 
-- **Languages:** Python, R, Shell, Markdown  
-- **DL Frameworks:** PyTorch, TensorFlow, MONAI  
-- **Tools:** Git, Docker, OpenSlide, Anaconda, Jupyter  
-- **Research Tools:** Scanpy, Seurat, GSEA, CellPhoneDB, Enrichr  
+| Area | Tools |
+| --- | --- |
+| Programming | Python, R, Shell |
+| Deep learning | PyTorch |
+| Pathology & spatial omics | OpenSlide, Scanpy, Seurat |
+| Research workflows | Git, Docker, Jupyter, Markdown |
 
+## Contact
 
-
----
-
-## 📫 Contact
-
-- 📧 Email: mohigan77@gmail.com  
-- 🔗 GitHub: [github.com/mohigan77](https://github.com/mohigan77)  
-
----
-
+- Email: [mohigan77@gmail.com](mailto:mohigan77@gmail.com)
+- GitHub: [@mohigan77](https://github.com/mohigan77)
 
